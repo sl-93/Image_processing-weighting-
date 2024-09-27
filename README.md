@@ -10,6 +10,11 @@ I have created my UI with PyQt:
 
 ![image](https://github.com/user-attachments/assets/b0ea057e-f25b-4254-993e-22b3da5f328e)
 
+
 ![image](https://github.com/user-attachments/assets/4ddeda01-d5f4-4d03-a498-8d10054a4573)
+
+
+![image](https://github.com/user-attachments/assets/21fc69ad-3321-4880-b42e-219a8432f529)
+
 
 
